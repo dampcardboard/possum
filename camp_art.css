@@ -10,11 +10,6 @@
 
 /* font & txt stuff */
 
-@font-face {
-font-family: "Manrope";
-src: url("https://github.com/kittgenstein/possum/blob/main/fonts/Manrope-Medium.woff2") format("woff2");
-}
-
 * {
 	color: #3A3A3A;
 	font-family: 'Manrope', sans-serif;
