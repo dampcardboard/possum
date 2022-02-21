@@ -9,11 +9,6 @@
 
 /* general font stuff */
 
-@font-face {
-font-family: "Manrope";
-src: url("https://github.com/kittgenstein/possum/blob/main/fonts/Manrope-Medium.woff2") format("woff2");
-}
-
 * {
 	/*font-size: 2vw;*/
 	font-family: 'Manrope', sans-serif;
